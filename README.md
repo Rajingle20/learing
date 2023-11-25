@@ -1,4 +1,4 @@
 # learing
 this is my first git Repository.
 <br>
-author - Ratnadeep Ingle
+author - Ratnadeep Ingle(Apna collage)
